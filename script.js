@@ -56,7 +56,7 @@ level.addEventListener("change", function() {
     Attackpower();
 
 })
-    power.addEventListener("change", Attackpower)
+    strength.addEventListener("change", Attackpower)
     agility.addEventListener("change", defensePoints);
     armor.addEventListener("change", defensePoints);
         }
